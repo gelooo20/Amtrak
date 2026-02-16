@@ -80,7 +80,7 @@ def browse(entry, filetypes):
 # ---------------- UI ---------------- #
 
 root = tk.Tk()
-root.title("Excel Raw Loader")
+root.title("Amtrak v1.0.01")
 root.geometry("520x260")
 root.resizable(False, False)
 
